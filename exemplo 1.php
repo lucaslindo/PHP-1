@@ -1,5 +1,5 @@
 <html>
-<head>
+  <head><title>olá mundo</title>
 <meta charset="utf-8" />
 
 </head>
@@ -16,3 +16,4 @@ echo "OlÃ¡ meu nome ",$nome,"<br>Minha idade Ã© ",$idade;
 
 
 </html>
+
